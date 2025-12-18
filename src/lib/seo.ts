@@ -20,6 +20,9 @@ export const defaultMetadata: Metadata = {
     "фриланс",
     "разработка сайтов",
     "веб разработка",
+	"Frontend rnd",
+	"Фронтенд разработчик в Ростове-на-Дону",
+
   ],
   authors: [{ name: "Frontend Developer" }],
   creator: "Frontend Developer",
